@@ -12,7 +12,7 @@ const Header = () => {
       <div className="flex flex-col lg:flex-row justify-between items-center gap-y-6 py-8">
         {/* logo */}
         <Link href={'/'}>
-          <Image src={'/abdul-mohiz-3-white.png'} width={240} height={49} alt="Logo" ></Image>
+          <Image src={'/Alsaiflogo.png'} width={240} height={49} alt="Logo" ></Image>
         </Link>
         {/* socials */}
         <Socials/>
